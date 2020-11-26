@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm 0J3, and I do code and sh\*t i guess?
 
-- 🤔 I’m looking for help with Yeetchat
-- 💬 Ask me about Node.JS
+- 🌱 I’m currently learning how to somehow fit my addiction for anime in here and confess that I'm a weeb. Oh wait I just did...
+- 💬 Ask me about Node.JS I guess? Well that or anime
 - 📫 How to reach me: 0J3#9971 on Discord or gh.contactme@wafflepowered.com
 - 😄 Pronouns: Preferably either they/them, or she/her, but I don't care that much
 - ⚡ Fun fact: I have been coding since I was 5, joined github on my first account in 2016, and have a total of 629 local repos at the time of writing (and more non-local ones here). These repos count a total of 7GB of files (inclusive dependencies)
