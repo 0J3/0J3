@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm 0J3, and I do code and sh\*t i guess?
+
+- 🤔 I’m looking for help with Yeetchat
+- 💬 Ask me about Node.JS
+- 📫 How to reach me: 0J3#9971 on Discord or gh.contactme@wafflepowered.com
+- 😄 Pronouns: Preferably either they/them, or she/her, but I don't care that much
+- ⚡ Fun fact: I have been coding since I was 5, joined github on my first account in 2016, and have a total of 629 local repos at the time of writing (and more non-local ones here). These repos count a total of 7GB of files (inclusive dependencies)
 
 <!--
 **0J3/0J3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
