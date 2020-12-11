@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ok free statistics:
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=0j3&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0j3&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact&count_private=true" />
